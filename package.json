@@ -15,7 +15,7 @@
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "codemirror": "^5.28.0",
     "diff": "^3.3.0",
-    "electron": "^1.7.6",
+    "electron": "^1.8.8",
     "filbert": "^0.1.20",
     "flow-bin": "^0.38.0",
     "jquery": "^3.2.1",
@@ -26,7 +26,7 @@
     "underscore": "^1.8.3"
   },
   "dependencies": {
-    "canvas": "^1.6.9",
+    "canvas": "^2",
     "window": "^4.2.2"
   }
 }
